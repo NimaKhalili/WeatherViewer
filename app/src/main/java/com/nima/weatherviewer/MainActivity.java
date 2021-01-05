@@ -28,13 +28,14 @@ import java.net.URLEncoder;
 import java.util.ArrayList;
 import java.util.List;
 public class MainActivity extends AppCompatActivity {
-    //new line
     // List of Weather objects representing the forecast
     private List<Weather> weatherList = new ArrayList<>();
 
     // ArrayAdapter for binding Weather objects to a ListView
     private WeatherArrayAdapter weatherArrayAdapter;
     private ListView weatherListView; // displays weather info
+
+    int test;
 
     // configure Toolbar, ListView and FAB
     @Override
