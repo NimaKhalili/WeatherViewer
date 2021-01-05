@@ -28,6 +28,7 @@ import java.net.URLEncoder;
 import java.util.ArrayList;
 import java.util.List;
 public class MainActivity extends AppCompatActivity {
+    //new line
     // List of Weather objects representing the forecast
     private List<Weather> weatherList = new ArrayList<>();
 
