@@ -39,6 +39,7 @@ public class MainActivity extends AppCompatActivity {
     //add another command here
     int test;
     int test2;
+    int test3;
 
     // configure Toolbar, ListView and FAB
     @Override
