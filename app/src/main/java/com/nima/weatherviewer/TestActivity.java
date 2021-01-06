@@ -11,5 +11,6 @@ public class TestActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_test);
              //add new line
+        //add new line here
     }
 }
