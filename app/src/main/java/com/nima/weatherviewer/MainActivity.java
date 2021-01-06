@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
     //add a command here
     //add another command here
     int test;
+    //add a command for test2 & test3
     int test2;
     int test3;
 
