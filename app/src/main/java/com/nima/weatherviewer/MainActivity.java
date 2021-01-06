@@ -30,11 +30,12 @@ import java.util.List;
 public class MainActivity extends AppCompatActivity {
     // List of Weather objects representing the forecast
     private List<Weather> weatherList = new ArrayList<>();
-
+    
     // ArrayAdapter for binding Weather objects to a ListView
     private WeatherArrayAdapter weatherArrayAdapter;
     private ListView weatherListView; // displays weather info
 
+    //add a command here
     int test;
 
     // configure Toolbar, ListView and FAB
