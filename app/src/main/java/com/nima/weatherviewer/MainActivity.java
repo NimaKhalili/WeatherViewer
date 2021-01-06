@@ -36,6 +36,7 @@ public class MainActivity extends AppCompatActivity {
     private ListView weatherListView; // displays weather info
 
     //add a command here
+    //add another command here
     int test;
 
     // configure Toolbar, ListView and FAB
